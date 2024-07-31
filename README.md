@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm a dedicated software developer with expertise 
 
 <p align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ercansahin16&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aytuu1&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ## 🛠️ Tools & Technologies
