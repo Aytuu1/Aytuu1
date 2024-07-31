@@ -33,7 +33,7 @@ Welcome to my GitHub profile! I'm a dedicated software developer with expertise 
 ## 🌐 Connect with Me
 
 - **LinkedIn:** [LinkedIn Profile]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/aytu%C4%9F-atasever-7898b5220/))
-- **Twitter:** [@YourTwitterHandle]([https://twitter.com/YourTwitterHandle](https://x.com/aytuataseveer))
+- **Twitter:** [@YourTwitterHandle]([https://x.com/aytuataseveer))
 - **Email:** [Aytuuc1@gmail.com](mailto:your-email@example.com)
 
 
