@@ -22,11 +22,11 @@ Welcome to my GitHub profile! I'm a dedicated software developer with expertise 
 
 ## 📈 GitHub Stats
 
-<h3 align="center">## GitHub İstatistiklerim</h3>
+<h3 align="center">GitHub İstatistiklerim</h3>
 
 <p align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aytuu1&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aytuu1&show_icons=true&theme=radical" alt="GitHub İstatistikleri" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aytuu1&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ## 🛠️ Tools & Technologies
