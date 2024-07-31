@@ -22,7 +22,12 @@ Welcome to my GitHub profile! I'm a dedicated software developer with expertise 
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&count_private=true&hide_title=false&bg_color=0D1117&text_color=F9A828&icon_color=58A6FF&title_color=7F3C6C)
+<h3 align="center">## GitHub İstatistiklerim</h3>
+
+<p align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ercansahin16&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ## 🛠️ Tools & Technologies
 
