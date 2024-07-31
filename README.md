@@ -19,7 +19,6 @@ Welcome to my GitHub profile! I'm a dedicated software developer with expertise 
 ## 🌟 Featured Projects
 
 - **[LibraryWorld](#)**: LibraryWorld is a comprehensive library management system designed to streamline the management of books, patrons, and library staff. This project aims to provide a robust and user-friendly interface for managing library operations and resources efficiently.
-- **[Project Name 2](#)**: Another project summary with a highlight of its features and technologies.
 
 ## 📈 GitHub Stats
 
@@ -33,15 +32,14 @@ Welcome to my GitHub profile! I'm a dedicated software developer with expertise 
 
 ## 🌐 Connect with Me
 
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- **Twitter:** [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
-- **Personal Website:** [your-website.com](https://your-website.com)
+- **LinkedIn:** [LinkedIn Profile]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/aytu%C4%9F-atasever-7898b5220/))
+- **Twitter:** [@YourTwitterHandle]([https://twitter.com/YourTwitterHandle](https://x.com/aytuataseveer))
+- **Email:** [Aytuuc1@gmail.com](mailto:your-email@example.com)
+
 
 ## 💬 About Me
 
 I am passionate about leveraging technology to solve complex problems and build innovative solutions. I enjoy working on both individual projects and collaborative teams, and I'm always eager to learn and explore new technologies.
-
 Feel free to explore my repositories and reach out if you'd like to discuss a project, collaborate, or just connect!
 
 ---
