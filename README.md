@@ -20,13 +20,6 @@ Welcome to my GitHub profile! I'm a dedicated software developer with expertise 
 
 - **[LibraryWorld](#)**: LibraryWorld is a comprehensive library management system designed to streamline the management of books, patrons, and library staff. This project aims to provide a robust and user-friendly interface for managing library operations and resources efficiently.
 
-## 📈 GitHub Stats
-
-<h3 align="center">GitHub İstatistiklerim</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aytuu1&layout=compact&theme=radical" alt="Top Languages" />
-</p>
 
 ## 🛠️ Tools & Technologies
 
