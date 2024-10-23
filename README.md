@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a dedicated software developer with expertise 
 ### **Frontend Development:**
 - **HTML5** | **CSS3** | **Bootstrap**
 - **JavaScript** | **TypeScript**
-- **Angular**
+- **React**
 
 ### **Backend Development:**
 - **C#** | **SQL**
