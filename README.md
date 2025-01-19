@@ -7,7 +7,7 @@
 - 🌱 I'm currently improving my skills in FrontEnd & BackEnd technologies.
     <img src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="350px" height="200px" align= "right" />
 - ⚡ I can help with FrontEnd & BackEnd.
-- 📫 How to reach me https://www.linkedin.com/in/mehmet-polat-/
+- 📫 How to reach me https://www.linkedin.com/in/aytugatasever/
 - 👯 I am open to collaboration and capable of working harmoniously <br/> with a team.
 - 💬 Ask me about anything.
 - 🤝🏻 I am open to job offers.
@@ -16,17 +16,17 @@
 
 --------------
 <div align="center">
-    <img src="https://profile-counter.glitch.me/{MehmetPolat20}/count.svg" style="width: 300px; height: auto;" />
+    <img src="https://profile-counter.glitch.me/{AytuğAtasever}/count.svg" style="width: 300px; height: auto; color:white" />
 </div>
 
 ---------
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/mehmet-polat-1b159627a/" target="_blank" style="text-decoration: none;">
+<a href="https://www.linkedin.com/in/aytugatasever/" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
-<a href="mailto:mehmet.polat2035@gmail.com" target="_blank" style="text-decoration: none;">
+<a href="aytuuc1@gmail.com" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail">
 </a>
 <h3 align="left">Languages and Tools:</h3>
