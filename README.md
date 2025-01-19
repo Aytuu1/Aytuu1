@@ -6,7 +6,7 @@
 ---
 - 💻 **I work as a passionate .NET Developer.**
 - 🌱 **I'm currently improving my skills in FrontEnd & BackEnd technologies.**
-   <img src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="300px" height="200px" align= "right" />
+   <img src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="350px" height="200px" align= "right" />
 - ⚡ **I can assist with .NET, FrontEnd, and BackEnd solutions.**  
 - 📫 **How to reach me:** [LinkedIn Profile](https://www.linkedin.com/in/aytugatasever/) | [Email](mailto:aytuuc1@gmail.com)  
 - 🤝 **I am open to collaboration and teamwork opportunities.**  
