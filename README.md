@@ -1,45 +1,58 @@
-# Hi there, I'm [Aytuğ Atasever] 👋
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Mehmet&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000&color=000000&size=24" alt="Example Usage - README Typing SVG" style="display: inline-block; vertical-align: middle;">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="7%" style="display: inline-block; vertical-align: middle;">
+</div>
 
-Welcome to my GitHub profile! I'm a dedicated software developer with expertise in both frontend and backend technologies. Here's a snapshot of my skills and projects.
+- 💻 I work as a passionate Full Stack Developer.
+- 🌱 I'm currently improving my skills in FrontEnd & BackEnd technologies.
+    <img src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="350px" height="200px" align= "right" />
+- ⚡ I can help with FrontEnd & BackEnd.
+- 📫 How to reach me https://www.linkedin.com/in/mehmet-polat-/
+- 👯 I am open to collaboration and capable of working harmoniously <br/> with a team.
+- 💬 Ask me about anything.
+- 🤝🏻 I am open to job offers.
 
-## 🚀 Skills & Technologies
+<br/>
 
-### **Frontend Development:**
-- **HTML5** | **CSS3** | **Bootstrap**
-- **JavaScript** | **TypeScript**
-- **React**
+--------------
+<div align="center">
+    <img src="https://profile-counter.glitch.me/{MehmetPolat20}/count.svg" style="width: 300px; height: auto;" />
+</div>
 
-### **Backend Development:**
-- **C#** | **SQL**
-- **ASP.NET** | **ASP.NET Core** | **Visual Basic**
+---------
 
-### **Styling & Preprocessing:**
-- **Sass**
+<h3 align="left">Connect with me:</h3>
+<a href="https://www.linkedin.com/in/mehmet-polat-1b159627a/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 
-## 🌟 Featured Projects
+<a href="mailto:mehmet.polat2035@gmail.com" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail">
+</a>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-- **[LibraryWorld](#)**: LibraryWorld is a comprehensive library management system designed to streamline the management of books, patrons, and library staff. This project aims to provide a robust and user-friendly interface for managing library operations and resources efficiently.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehmetpolat20&show_icons=true&locale=en&layout=compact" alt="mehmetpolat20" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehmetpolat20&show_icons=true&locale=en" alt="mehmetpolat20" /></p>
 
-## 🛠️ Tools & Technologies
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehmetpolat20&" alt="mehmetpolat20" /></p>
 
-- **IDEs:** Visual Studio, VS Code
-- **Version Control:** Git, GitHub
-- **Databases:** SQL Server, MySQL
-
-## 🌐 Connect with Me
-
-- **LinkedIn:** https://www.linkedin.com/in/aytu%C4%9F-atasever-7898b5220/
-- **Twitter:** https://x.com/aytuataseveer
-- **Email:** [Aytuuc1@gmail.com](mailto:your-email@example.com)
-
-
-## 💬 About Me
-
-I am passionate about leveraging technology to solve complex problems and build innovative solutions. I enjoy working on both individual projects and collaborative teams, and I'm always eager to learn and explore new technologies.
-Feel free to explore my repositories and reach out if you'd like to discuss a project, collaborate, or just connect!
-
----
-
-**Let's create something amazing together!** 🌟
+<center>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+</center>
+<img height="100" alt="Thanks for visiting me" width="100%" color="black" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
