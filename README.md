@@ -3,9 +3,6 @@
 </div>
  
 ---
-<div class="container mr-10 mt-10">
-<img src="https://camo.githubusercontent.com/040e4ace967f8845ef42a67869410b485d2060321a40939550b7652b9aea6bd5/68747470733a2f2f7777772e6d79676f2e67652f75706c6f6164732f626c6f672f313538343032333739352e6a7067" width="50%">
-</div>
 - 💻 **I work as a passionate .NET Developer.**  
 - 🌱 **I'm currently improving my skills in FrontEnd & BackEnd technologies.**  
 - ⚡ **I can assist with .NET, FrontEnd, and BackEnd solutions.**  
