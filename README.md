@@ -4,7 +4,6 @@
 </div>
  
 ---
-
 - 💻 **I work as a passionate .NET Developer.**
 - 🌱 **I'm currently improving my skills in FrontEnd & BackEnd technologies.**
    <img src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="350px" height="200px" align= "right" />
