@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Aytuğ+Atasever!;Welcome+to+my+GitHub+profile!&font=Fira%20Code&center=true&width=500&height=50&duration=4000&pause=1000&color=000000&size=24" alt="Typing SVG">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
+  <img src="https://camo.githubusercontent.com/040e4ace967f8845ef42a67869410b485d2060321a40939550b7652b9aea6bd5/68747470733a2f2f7777772e6d79676f2e67652f75706c6f6164732f626c6f672f313538343032333739352e6a7067" width="5%">
 </div>
 
 ---
