@@ -1,10 +1,12 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Aytuğ+Atasever!;Welcome+to+my+GitHub+profile!&font=Fira%20Code&center=true&width=500&height=50&duration=4000&pause=1000&color=000000&size=24" alt="Typing SVG">
+ 
 </div>
  
 ---
 - 💻 **I work as a passionate .NET Developer.**  
-- 🌱 **I'm currently improving my skills in FrontEnd & BackEnd technologies.**  
+- 🌱 **I'm currently improving my skills in FrontEnd & BackEnd technologies.**
+-  <img src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="350px" height="200px" align= "right" />
 - ⚡ **I can assist with .NET, FrontEnd, and BackEnd solutions.**  
 - 📫 **How to reach me:** [LinkedIn Profile](https://www.linkedin.com/in/aytugatasever/) | [Email](mailto:aytuuc1@gmail.com)  
 - 🤝 **I am open to collaboration and teamwork opportunities.**  
