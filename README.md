@@ -4,8 +4,8 @@
 </div>
  
 ---
+ <img src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="350px" height="200px" align= "right" />
 - 💻 **I work as a passionate .NET Developer.**
--  <img src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="350px" height="200px" align= "right" />
 - 🌱 **I'm currently improving my skills in FrontEnd & BackEnd technologies.**
 - ⚡ **I can assist with .NET, FrontEnd, and BackEnd solutions.**  
 - 📫 **How to reach me:** [LinkedIn Profile](https://www.linkedin.com/in/aytugatasever/) | [Email](mailto:aytuuc1@gmail.com)  
